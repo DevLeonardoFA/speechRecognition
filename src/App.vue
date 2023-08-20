@@ -60,5 +60,16 @@
 
 
 
-<style scoped>
+<style>
+
+body {
+    background: #151515;
+}
+
+section.SR_main {
+    margin-top: 2rem;
+    color: #fff;
+    font-size: 2rem;
+}
+
 </style>
